@@ -1,0 +1,1 @@
+This is snake water and gun game developed using javascript.
